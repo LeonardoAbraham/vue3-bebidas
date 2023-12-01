@@ -1,29 +1,21 @@
-# vue3-bebidas
+# Proyecto - Bebidas
+Realizado por: Leonardo Abraham Alonzo Martinez
 
-This template should help get you started developing with Vue 3 in Vite.
+Curso- Vue - Vue.js 3 - La Guía Completa - Composition Pinia MEVN 10 Apps - Juan Pablo De la torre Valdez
 
-## Recommended IDE Setup
+## Descripción
+Con este proyecto se pretende estudiar el funcionamiento del framework Vue.js 3, en este proyecto se estudia, crear componentes, el uso de computed, el uso de directivas v-if, v-for, uso de Axios. Uso de pinia. Uso de Tailwindcss
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
+## Como ejecutar el proyecto
+```
 npm install
 ```
-
-### Compile and Hot-Reload for Development
-
-```sh
+```
 npm run dev
 ```
 
-### Compile and Minify for Production
+## Imagenes del proyecto
+![Image text](https://github.com/LeonardoAbraham/vue3-bebidas/blob/main/public/vue3_bebidas.png)
 
-```sh
-npm run build
-```
+![Image text](https://github.com/LeonardoAbraham/vue3-bebidas/blob/main/public/vue3_bebidas_receta.png)
+
